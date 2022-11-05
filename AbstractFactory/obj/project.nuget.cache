@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "urObStTy064chTEoCRQAFc67FCBtxi224Fmy3k+2LW/MC4ec5DNa4R9zME57GeDTc2drRmzz0wymTUpEYIpnag==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
